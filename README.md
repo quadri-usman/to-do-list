@@ -18,7 +18,7 @@
 
 - Open a .env file in the root/cloned directory and put the following inside it
   - PORT = 3000
-  - MONGODB_URI="mongodb://localhost:27017/cms_app"
+  - MONGODB_URI="mongodb://localhost:27017/todoList_app"
 - To start the server, run: npm start (or npm run dev)
 
 ## Endpoints
